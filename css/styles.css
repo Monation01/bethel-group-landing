@@ -482,7 +482,7 @@ button { font-family: inherit; cursor: pointer; }
   font-size: 0.78rem;
   text-align: center;
 }
-.footer-bottom p { margin: 0; opacity: 0.7; }
+.footer-bottom p { margin: 0; color: var(--white); opacity: 0.7; }
 .footer-bottom .footer-values { color: var(--gold-light); opacity: 1; font-weight: 500; }
 /* =========================================================
    BACK TO TOP
